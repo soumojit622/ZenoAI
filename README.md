@@ -1,6 +1,6 @@
 # ⚡ ZenoAI – Intelligent Content Generation for Modern Teams
 
-[![Website](https://img.shields.io/badge/Visit%20Live%20Site-ZenoAI.com-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://zeno-ai-nine.vercel.app)
+[![Website](https://img.shields.io/badge/Visit%20Live%20Site-ZenoAI-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://zeno-ai-nine.vercel.app)
 [![Stars](https://img.shields.io/github/stars/soumojit622/zenoai?style=flat-square)](https://github.com/soumojit622/zenoai/stargazers)
 
 ---
@@ -31,7 +31,7 @@ ZenoAI is a **premium AI-powered platform** that empowers individuals and teams 
 
 ## 🌐 Live Demo
 
-🔗 [https://zenoai.com](https://zeno-ai-nine.vercel.app)
+🔗 [Live Here](https://zeno-ai-nine.vercel.app)
 
 ---
 
